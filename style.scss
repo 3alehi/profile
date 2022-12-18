@@ -378,5 +378,57 @@ a, a:hover {
 .profile-card a {
   cursor: pointer;
 }
+#d{
+  background: red;
+  width: 80%;
+  height: 20px;
+  border-radius: 100px;
+  display: inline;
+  position: absolute;
+  left: 90px;
+  text-align: center;
+}
+#css{
+  background: red;
+  width: 40%;
+  height: 20px;
+  border-radius: 100px;
+  display: inline;
+  position: absolute;
+  left: 90px;
+  text-align: center;
+}
+#l{
+  background: red;
+  width: 60%;
+  height: 20px;
+  border-radius: 100px;
+  display: inline;
+  position: absolute;
+  left: 90px;
+  text-align: center;
+}
+#g{
+  background: red;
+  width: 40%;
+  height: 20px;
+  border-radius: 100px;
+  display: inline;
+  position: absolute;
+  left: 90px;
+  text-align: center;
+}
+li{
+  list-style: none;
+  margin: 10px;
+}
 
+#skiils{
+margin: 20px;
+
+}
+#skiils h1{
+  display: grid;
+  justify-content: center;
+}
 /*# sourceMappingURL=style.css.map */
